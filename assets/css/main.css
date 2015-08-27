@@ -131,7 +131,7 @@ main {
 .logo {
 	background: #fff;
 	color: #000;
-	height: 64px;
+/*	height: 64px;*/
 	text-align: center;
 }
 .logo__image {
